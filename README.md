@@ -17,7 +17,9 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
   * Seguimiento de los indicadores internos del área de tecnología
   * Seguimiento en la integración de aplicaciones del Grupo Aval y el Banco Popular.
   * Apoyo en las tareas del a´rea de Arquitectura Digital y Datos
-  # EXPERIENCIA PROFESIONAL
-  Universidad Santo Tomás
-   Ingeniería de Telecomunicaciones
+# EXPERIENCIA PROFESIONAL
+  * Universidad Santo Tomás
    DICIEMBRE 2022
+   Ingeniería de Telecomunicaciones
+   
+  * 
