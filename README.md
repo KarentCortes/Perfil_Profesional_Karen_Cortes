@@ -38,7 +38,7 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
   # CONTACTO
   * Cel : 3008247722
   * Correo: karent.cortes.o@gmail.com
-  * Linkedin: in: www.linkedin.com/in/karencortes-73b505224
+  * Linkedin: www.linkedin.com/in/karencortes-73b505224
 
 
   
