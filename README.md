@@ -5,11 +5,12 @@
 ---------------------------------------------
 # PERFIL PERSONAL
 Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
-Me caracterizo por ser una persona responsable, con alto nivel de compromiso, puntualidad, liderazgo, con capacidad de adaptación al cambio y excelentes relaciones interpersonales.
- 
+Me caracterizo por ser una persona responsable, con alto nivel de compromiso, puntualidad, liderazgo, con capacidad de adaptación al cambio y excelentes relaciones interpersonales. 
 # COMPETENCIAS CLAVES
 * Atención al cliente
 * Trabajo en equipo
 * Comunicación asertiva
 * Cultura de aprendizaje y mejora continua
-
+# EXPERIENCIA PROFESIONAL
+  BANCO POPULAR | ENERO 2022 - JULIO 2022
+  * Apoyo en la construcción del PETI del Banco Popular 2022-2025.
