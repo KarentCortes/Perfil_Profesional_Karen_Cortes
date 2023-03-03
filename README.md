@@ -2,8 +2,8 @@
 
 # KAREN CORTES
 ***INGENIERA DE TELECOMUNICACIONES***
-*1.[Perfil Personal] (#section-1)*
-*Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
+-Perfil Personal 
+Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
 Me caracterizo por ser una persona responsable, con alto nivel de compromiso, puntualidad, liderazgo, con capacidad de adaptación al cambio y excelentes relaciones interpersonales.
  
 
