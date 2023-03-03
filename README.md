@@ -21,6 +21,7 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
   * **Universidad Santo Tomás**
   
   ENERO 2017 | DICIEMBRE 2022
-   Ingeniería de Telecomunicaciones
+  
+   *Ingeniería de Telecomunicaciones*
    
   * 
