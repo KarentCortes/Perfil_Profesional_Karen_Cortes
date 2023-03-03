@@ -24,4 +24,4 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
   
    *Ingeniería de Telecomunicaciones*
    
-  * 
+  <sub>
