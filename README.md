@@ -8,5 +8,8 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
 Me caracterizo por ser una persona responsable, con alto nivel de compromiso, puntualidad, liderazgo, con capacidad de adaptación al cambio y excelentes relaciones interpersonales.
  
 # COMPETENCIAS CLAVES
-1. Atención al cliente
-* h
+* Atención al cliente
+* Trabajo en equipo
+* Comunicación asertiva
+* Cultura de aprendizaje y mejora continua
+
