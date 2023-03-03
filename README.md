@@ -34,6 +34,11 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
   <sub>Agosto 2019 | Diciembre 2019 </sub>    
   *Introduction to Networks*  
   *Routing and Switching Essentials* 
+  
+  # CONTACTO
+  * Cel : 3008247722
+  * Correo: karent.cortes.o@gmail.com
+  * Linkedin: in: www.linkedin.com/in/karencortes-73b505224
 
 
   
