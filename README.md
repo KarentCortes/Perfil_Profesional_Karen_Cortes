@@ -18,9 +18,8 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
   * Seguimiento en la integración de aplicaciones del Grupo Aval y el Banco Popular.
   * Apoyo en las tareas del a´rea de Arquitectura Digital y Datos
 # FORMACIÓN ACADÉMICA
-  * **Universidad Santo Tomás**
- 
-  <sub>Enero 2017 | Diciembre 2022 </sub>  
-  Ingeniería de Telecomunicaciones
+  * **Universidad Santo Tomás**  
+  * <sub>Enero 2017 | Diciembre 2022 </sub>  
+   *Ingeniería de Telecomunicaciones*
 
   
