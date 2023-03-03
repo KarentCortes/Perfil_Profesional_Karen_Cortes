@@ -22,16 +22,16 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
    <sub>Enero 2017 | Diciembre 2022 </sub>  
    *Ingeniería de Telecomunicaciones*
   * **Oracle**  
-  <sub>Enero 2017 | Diciembre 2022 </sub>  
+  <sub>Marzo 2022     
   *Oracle Cloud Infrastructure Foundations 2021*  
-  * **Udemy** 
-  <sub>Enero 2017 | Diciembre 2022 </sub>  
+  * **Udemy**  
+  <sub>Marzo 2022      
   *Curso básico de Amazon AWS1*  
-  *  **SCRUMstudy**
-  <sub>Enero 2017 | Diciembre 2022 </sub>  
+  *  **SCRUMstudy**  
+  <sub>Mayo 2021    
   *Scrum Fundamentals Certified* 
-  *   **Cisco Networking Academy**
-  <sub>Enero 2017 | Diciembre 2022 </sub>  
+  *   **Cisco Networking Academy**  
+  <sub>Agosto 2019 | Diciembre 2019 </sub>    
   *Introduction to Networks*  
   *Routing and Switching Essentials* 
 
