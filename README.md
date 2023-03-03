@@ -28,7 +28,7 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
   <sub>Marzo 2022      
   *Curso básico de Amazon AWS1*  
   *  **SCRUMstudy**  
-  <sub>Mayo 2021    
+  <sub>Mayo 2021  
   *Scrum Fundamentals Certified* 
   *   **Cisco Networking Academy**  
   <sub>Agosto 2019 | Diciembre 2019 </sub>    
