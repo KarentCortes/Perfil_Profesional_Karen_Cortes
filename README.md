@@ -20,7 +20,7 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
 # EXPERIENCIA PROFESIONAL
   * **Universidad Santo Tomás**
  
-  <sub>enero 2017 | DICIEMBRE 2022
-  *Ingeniería de Telecomunicaciones*
+  <sub>Enero 2017 | Diciembre 2022
+  Ingeniería de Telecomunicaciones
 
   
