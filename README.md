@@ -19,8 +19,8 @@ Ingeniera de Telecomunicaciones de la Universidad Santo Tomás.
   * Apoyo en las tareas del a´rea de Arquitectura Digital y Datos
 # EXPERIENCIA PROFESIONAL
   * **Universidad Santo Tomás**
-  --
-  <sub>ENERO 2017 | DICIEMBRE 2022
+ 
+  <sub>enero 2017 | DICIEMBRE 2022
   *Ingeniería de Telecomunicaciones*
 
   
