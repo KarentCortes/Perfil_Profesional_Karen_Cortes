@@ -5,7 +5,7 @@ clear
 #username=$1
 #token=$2
 #repo=$3
-comment=$"nuevo"
+comment=$"shell añadida para automatizar push v1"
 rama=$"gh-pages"
 
 
